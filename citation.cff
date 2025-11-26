@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Unintended Pregnancy and Risk of Preterm Birth in the United States: Causal Inference and Risk Prediction Using National Survey of Family Growth Data"
+type: software
+version: "v1.0.0"
+date-released: 2025-11-25
+authors:
+  - family-names: Adetunji
+    given-names: Sunday A
+    orcid: "https://orcid.org/0000-0001-9321-9957"
+    affiliation: "College of Health, Oregon State University, Corvallis, USA; Faculty of Clinical Sciences, Obafemi Awolowo University, Ile-Ife, Nigeria"
+  - family-names: More
+    given-names: Purva Nerandra
+    orcid: "https://orcid.org/0009-0006-8262-5857"
+    affiliation: "College of Health, Oregon State University, Corvallis, USA"
+repository-code: "https://github.com/drsunday-ade/pregnancy-intention-preterm-birth-usa-nsfg"
+url: "https://github.com/drsunday-ade/pregnancy-intention-preterm-birth-usa-nsfg"
+keywords:
+  - unintended pregnancy
+  - preterm birth
+  - NSFG
+  - causal inference
+  - risk prediction
+  - survey data
+abstract: >
+  Reproducible R-based workflow for constructing an analytic cohort and conducting
+  descriptive, causal inference, and risk-prediction analyses of unintended pregnancy
+  and preterm birth using the 2022–2023 National Survey of Family Growth (NSFG) Female
+  Pregnancy public-use file, accounting for complex survey design and weighting.
