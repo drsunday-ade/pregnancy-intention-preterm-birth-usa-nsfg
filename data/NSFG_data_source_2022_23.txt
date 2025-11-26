@@ -1,0 +1,28 @@
+
+NSFG 2022–2023 Female Pregnancy Public-Use Data File
+---------------------------------------------------
+
+This repository uses ONLY openly available, de-identified human data from the
+National Survey of Family Growth (NSFG), produced and distributed by the
+National Center for Health Statistics (NCHS), Centers for Disease Control and
+Prevention (CDC).
+
+Original data source (public-use files):
+https://www.cdc.gov/nchs/nsfg/nsfg-2022-2023-puf.htm
+
+The NSFG public-use data are freely available to the public without
+registration. All data used in this project were downloaded from the NSFG
+public-use data portal prior to initiation of the analyses. No new data were
+collected for this study, and no attempt has been or will be made to
+re-identify any survey participant.
+
+Users of this repository who wish to work with the NSFG data should obtain the
+most recent public-use files and documentation directly from the CDC/NCHS
+website above, and must comply with all guidance and terms of use provided by
+NCHS.
+
+Suggested data citation (generic form):
+
+National Center for Health Statistics. National Survey of Family Growth,
+2022–2023 Public-Use Data Files. Hyattsville, MD: Centers for Disease Control
+and Prevention, U.S. Department of Health and Human Services.
